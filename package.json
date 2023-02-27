@@ -1,0 +1,23 @@
+{
+  "name": "js211-sortingpractice",
+  "version": "1.0.0",
+  "description": "All students will do this but can and should work together to figure it out.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACRamirez1/JS211-SortingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACRamirez1/JS211-SortingPractice/issues"
+  },
+  "homepage": "https://github.com/ACRamirez1/JS211-SortingPractice#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
